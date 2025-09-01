@@ -23,24 +23,24 @@ Aquí encontrarás la **estructura base de carpetas**, las **instrucciones de tr
 
 ## 🗂️ Estructura del repositorio  
 
+```text
 Hackathon-iActiva-2025/
 │
 ├── reto1_aplicacion/
-│ └── equipoX/ # Carpeta de cada equipo
-│ ├── docs/
-│ ├── src/
-│ ├── tests/
-│ └── README.md
+│   └── equipoX/   # Carpeta de cada equipo
+│       ├── docs/
+│       ├── src/
+│       ├── tests/
+│       └── README.md
 │
 ├── reto2_asistente/
-│ └── equipoX/
-│ ├── docs/
-│ ├── src/
-│ ├── tests/
-│ └── README.md
+│   └── equipoX/
+│       ├── docs/
+│       ├── src/
+│       ├── tests/
+│       └── README.md
 │
-└── README.md # Este documento
-
+└── README.md   # Este documento
 ---
 
 ## 👥 Instrucciones para equipos  
