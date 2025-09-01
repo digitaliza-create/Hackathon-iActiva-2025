@@ -43,6 +43,9 @@ Hackathon-iActiva-2025/
 └── README.md   # Este documento
 
 
+---
+
+
 ## 👥 Instrucciones para equipos
 Dentro de tu reto asignado (reto1_aplicacion o reto2_asistente), duplica la carpeta equipo1 y renómbrala con el nombre de tu equipo.
 Ejemplo: reto1_aplicacion/LosInnovadores/
@@ -56,6 +59,9 @@ Nombre del equipo
 Miembros y roles
 Reto elegido
 Avances por cada logro
+
+
+---
 
 ## 🔧 Procedimiento con Git
 # Crear rama para cada logro
@@ -73,6 +79,8 @@ git tag logro1
 git push origin --tags
 
 
+---
+
 ## ✅ Buenas prácticas
 Documenta cada logro en /docs/logroX/.
 Usa nombres claros en commits y archivos.
@@ -81,17 +89,23 @@ Mantén modularidad en el código.
 Añade evidencias de pruebas (logs, capturas, reportes).
 
 
+---
+
 ## ⚖️ Propiedad intelectual y uso del código
 Todos los proyectos se publicarán bajo licencia MIT o GPLv3 (a elección de cada equipo).
 Madrid Digital podrá referenciar, analizar y reutilizar las soluciones con fines no comerciales.
 Los participantes mantienen la autoría y titularidad de sus soluciones y podrán seguir desarrollándolas libremente tras el evento.
 
 
+---
+
 ## 🏆 Categorías de premios
 Mejor solución técnica – Reto 1
 Mejor solución técnica – Reto 2
 Mejor presentación (Pitch Final)
 
+
+---
 
 ## 📝 Checklist rápido de entregables
 Antes de la hora límite (14:30 h) asegúrate de que tu carpeta contiene:
