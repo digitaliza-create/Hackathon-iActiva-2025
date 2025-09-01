@@ -79,6 +79,8 @@ Usa nombres claros en commits y archivos.
 Comenta el código generado con IA (# Generado con ayuda de Copilot).
 Mantén modularidad en el código.
 Añade evidencias de pruebas (logs, capturas, reportes).
+
+
 ⚖️ Propiedad intelectual y uso del código
 Todos los proyectos se publicarán bajo licencia MIT o GPLv3 (a elección de cada equipo).
 Madrid Digital podrá referenciar, analizar y reutilizar las soluciones con fines no comerciales.
