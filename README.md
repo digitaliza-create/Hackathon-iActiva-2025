@@ -7,7 +7,7 @@ Aquí encontrarás la **estructura base de carpetas**, las **instrucciones de tr
 ---
 
 ## 📅 Información básica  
-- **Fecha:** 1 de julio de 2025  
+- **Fecha:** 24 de septiembre de 2025  
 - **Horario:** 09:00 – 17:00  
 - **Lugar:** Centro de Innovación Digitaliza Madrid (C/ Embajadores 181)  
 
