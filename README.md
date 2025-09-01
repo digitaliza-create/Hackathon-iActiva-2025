@@ -77,6 +77,9 @@ git push origin logro1-equipoX
 # Etiquetar logro
 git tag logro1
 git push origin --tags
+
+---
+
 ✅ Buenas prácticas
 Documenta cada logro en /docs/logroX/.
 Usa nombres claros en commits y archivos.
