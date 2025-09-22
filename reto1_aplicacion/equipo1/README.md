@@ -43,3 +43,5 @@ git push origin logro1-equipoX
 # Etiquetar logro
 git tag logro1
 git push origin --tags
+
+[ISW-FICHA RETO 1 COMPLETA.05.docx](https://github.com/user-attachments/files/22460822/ISW-FICHA.RETO.1.COMPLETA.05.docx)
